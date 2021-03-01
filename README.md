@@ -5,6 +5,8 @@ It's a relatively simple web page that gives the visitor easy access to other so
 
 The design was conceived by myself, the intention was a very simple, easy-to-navigate layout.
 
+Live site: http://www.hellocentral.live
+
 ## Tech Used
 - React
 - React Native
