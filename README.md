@@ -13,4 +13,5 @@ The design was conceived by myself, the intention was a very simple, easy-to-nav
 - SASS/SCSS
 - HTML + CSS
 
-!['Pictures' Section](https://i.imgur.com/pOHBSwM.png)
+<img width="431" alt="Screen Shot 2021-03-01 at 2 56 50 PM" src="https://user-images.githubusercontent.com/32964891/109564538-7289ff80-7a9e-11eb-87a7-fecd54076fe8.png">
+
